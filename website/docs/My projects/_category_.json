@@ -1,0 +1,8 @@
+{
+    "label": "My Projects",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Stuff I've done!"
+    }
+  }
